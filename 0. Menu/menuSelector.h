@@ -263,8 +263,8 @@ void removeProduct() {
 }
 
 void shiftProduct(int select) {
-    select -= 1;
-    for (int i = 0; i < n_pd; i++) {
+    select--;
+    for (int i = select; i < n_pd; i++) {
         if (i != n_pd - 1) {
             clearCharArray(i);
             strcpy(product[i].name, product[i+1].name);
@@ -274,6 +274,7 @@ void shiftProduct(int select) {
             clearCharArray(i);
             product[i].price = 0;
             product[i].amount = 0;
+            n_pd--;
         }
     }
     if (strlen(product[0].name) == 0) {
