@@ -1,4 +1,4 @@
-# ✨ Cahier Seven Paknumpho(CSP)
+# ✨ Cashier Seven Paknumpho(CSP)
 ## 🤔 What is CSP?
 CSP is **Point of Sale(POS)** system that would help you manage your store easier.
 
