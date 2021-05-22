@@ -16,3 +16,4 @@ CSP is **Point of Sale(POS)** system that would help you manage your store easie
 - Supachai Kheawjuy 63070168
 ## Example::
 - [How to use](https://www.youtube.com/watch?v=kn9Fd87Pw8E)
+- [Poster](https://github.com/computer-programming-project-2020/project-code/blob/master/poster_page.md)
