@@ -14,3 +14,5 @@ CSP is **Point of Sale(POS)** system that would help you manage your store easie
 - Natanon Hanchana 63070045
 - Pimmada Krunsungnoen 63070120
 - Supachai Kheawjuy 63070168
+## Example::
+[How to use](https://www.youtube.com/watch?v=kn9Fd87Pw8E)
