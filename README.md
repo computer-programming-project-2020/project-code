@@ -3,10 +3,10 @@
 CSP is **Point of Sale(POS)** system that would help you manage your store easier.
 
 ## 🔭 Feature::
-### _Customer Management_
+### [_Customer Management_](https://github.com/computer-programming-project-2020/project-code/tree/master/1.%20Purchase)
 - Purchase system
 - Slip/Bills system
-### _Inventory Management_
+### [_Inventory Management_](https://github.com/computer-programming-project-2020/project-code/tree/master/2.%20Product)
 - add-to-stock
 - Product Management
 ## 💬 About us::
